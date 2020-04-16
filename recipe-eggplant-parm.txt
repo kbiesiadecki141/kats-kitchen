@@ -1,0 +1,63 @@
+recipe-eggplant-parm.txt                    Katelyn Biesiadecki, 11/09/2019
+cuisine: italian
+meal: dinner
+difficulty: (easy) medium hard
+total_time: 1h00m 
+===========================================================================
+
+                              EGGPLANT PARMESAN
+
+A haiku:
+
+  I am an eggplant
+  breading me is too much work
+  just stick in oven
+
+
+
+(Recipe from https://www.allrecipes.com/recipe/25321/eggplant-parmesan-ii/)
+
+---------------------------------------------------------------------------
+
+Ingredients:
+@ 1 eggplant
+@ lotza mozza(rella)
+* plenty o' parmesan
+@ pasta sauce
+* garlic
+* sausage
+* mushrooms
+* basil
+
+Serve with:
+* more parmesan
+* mark zuccherbinis
+* garlic bread 
+
+------------------------------- INSTRUCTIONS ------------------------------
+
+Preheat oven to 350 degrees F (175 degrees C).
+
+While oven is preheating, slice up your eggplant. Lay out the eggplant
+slices onto a tray and salt them (to draw out the moisture). Wait until
+you see some water droplets sitting on top of the eggplant, and wipe off
+excess with a paper towel. 
+
+While you're waiting for the eggplant to drain, you can elevate your pasta
+sauce (if you got it in a jar) with sausage, mushrooms, garlic, basil, etc.
+Also, if you're gonna make some zuccs, do it now. You can put 'em in with
+the eggplant -- although honestly, the eggparm is filling enough on its own.
+Garlic bread is, in the wise words of Hayley Williams, the only exception.
+
+If you're a fancy chef:
+    Dip eggplant slices in egg, then in bread crumbs. Place in a single layer 
+    on a baking sheet. Bake in preheated oven for 5 minutes on each side.
+
+In a 9x13 inch baking dish spread pasta sauce to cover the bottom. Place 
+a layer of eggplant slices in the sauce. Sprinkle with mozzarella and 
+Parmesan cheeses. Repeat with remaining ingredients, ending with the 
+cheeses. Sprinkle basil on top.
+
+Bake in preheated oven for 35 minutes, or until golden brown.
+
+===========================================================================

@@ -1,0 +1,43 @@
+recipe-name.txt                             Katelyn Biesiadecki, 08/26/2019
+cuisine: korean fusion
+meal: lunch, dinner 
+difficulty: easy 
+total_time: 1h30m 
+===================================== =====================================
+
+                              RECIPE NAME HERE
+
+Say something here, if you want. Or don't.
+I left a single space to represent the center of the lines, but please
+remember to fill it in!
+
+If you want to ignore a certain recipe in recipeReader.py for whatever
+reason, I suggest prepending the filename with an underscore 
+(e.g. _recipe-for-disaster.txt).
+
+---------------------------------------------------------------------------
+
+Ingredients:
+* soft boiled egg
+@ bulgogi beef
+* kimchi
+* romaine lettuce
+* mushrooms
+* pickled cucumber
+* steamed broccoli
+* zucchini
+* pickled bean sprouts
+@ tofu
+* green onion
+* gochujang 
+
+Serve with:
+* a pinch of sass
+
+------------------------------- INSTRUCTIONS ------------------------------
+
+You can just write in plain English; and no need for numbers.
+
+Enjoy!
+
+===========================================================================

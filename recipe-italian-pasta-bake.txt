@@ -1,0 +1,64 @@
+recipe-italian-pasta-bake.txt               Katelyn Biesiadecki, 04/10/2020
+cuisine: italian
+meal: dinner
+difficulty: (easy) medium hard
+total_time: 1h00m 
+===========================================================================
+
+              SPINACH, TOMATO, AND ITALIAN SAUSAGE PASTA BAKE
+
+A Karen Recipe^TM:
+
+"So I made this recipe on the fly some time during this semester and I
+actually don't have any exact measurements for the ingredients. For this 
+recipe, I advise using your heart and soul to guide you in determining how 
+much of each ingredient to use!"
+
+---------------------------------------------------------------------------
+
+Ingredients:
+* cherry tomatoes, halved
+* spinach
+* about two Italian sausages, casing removed
+* a pound of pasta in whatever shape you like
+* a jar of pasta sauce (tomato)
+* shredded parmesan
+* shredded mozzarella
+* oregano
+* thyme
+* garlic salt
+* salt
+* black pepper
+* cayenne
+* olive oil
+
+Serve with:
+* garlic bread
+* baked veg
+
+------------------------------- INSTRUCTIONS ------------------------------
+
+Bring a pot of salted water to a boil. While that's happening, preheat the 
+oven to 400 degrees F. Once the pot reaches a boil, pour in the pound of 
+pasta. As soon as the pasta is finished cooking per package instructions, 
+drain and rinse with cold water.
+
+Crumble the Italian sausage into bite sized pieces and put it into an 
+oiled pan on medium heat. Cook until no longer pink. You don't have to use 
+too much oil because the sausage is naturally a lil greasy.
+
+Use the same pot that you used to cook the pasta to heat up the pasta 
+sauce. Heat the sauce over medium low heat, stirring in olive oil, oregano, 
+thyme, garlic salt, black pepper, and cayenne, until it reaches a simmer. 
+
+Pour the pasta into a 9" x 12" pan. Mix in the cherry tomatoes, the 
+spinach, the Italian sausage, and heated pasta sauce. Feel free to mix in 
+some of the parmesan and mozzarella here if you want a more even 
+distribution of cheese. Otherwise, you can just top the whole mixture with 
+a layer of parmesan and mozzarella cheese.
+
+Bake for twenty minutes. Serve immediately.
+
+Enjoy!
+
+===========================================================================

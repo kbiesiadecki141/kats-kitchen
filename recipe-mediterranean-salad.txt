@@ -1,0 +1,35 @@
+recipe-name.txt                             Katelyn Biesiadecki, 09/10/2019
+cuisine: mediterranean
+meal: lunch, dinner
+difficulty: (easy) medium hard
+total_time: 0h10m 
+===========================================================================
+
+                            MEDITERRANEAN SALAD
+
+An easy midweek salad! 
+
+---------------------------------------------------------------------------
+
+Ingredients:
+@ arugula
+@ chopped lettuce 
+@ grilled chicken
+@ hummus
+* diced tomatoes
+* grilled onions
+* cucumber
+* tabouleh (optional)
+* olives (optional)
+
+Serve with:
+* cheese
+
+------------------------------- INSTRUCTIONS ------------------------------
+
+Chop some stuff, throw it in a bowl, call it a day. Gotta love easy 
+recipes!
+
+Enjoy!
+
+===========================================================================

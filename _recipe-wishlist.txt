@@ -1,0 +1,41 @@
+recipe-wishlist.txt                         Katelyn Biesiadecki, 08/26/2019
+===========================================================================
+
+                               RECIPE WISHLIST
+
+Here's a list of all the things I want to learn to make!
+
+How do I want to organize this?
+
+Maybe I could write a computer program to change the methods by which I 
+filter my recipes.
+    Example: Sort by - ingredient: egg, potato (tag "key flavors" with @)
+                       difficulty/time: easy, 30m
+                       cuisine: french
+                       
+
+--------------------------------- BREAKFAST -------------------------------
+
+*
+*
+*
+
+------------------------------------ ASIAN --------------------------------
+
+* pho
+* beef broccoli (https://damndelicious.net/2014/08/13/easy-beef-broccoli/)
+*
+
+----------------------------------- ITALIAN -------------------------------
+
+* pesto chicken
+*
+*
+
+------------------------------------ FRENCH -------------------------------
+
+*
+*
+*
+
+===========================================================================

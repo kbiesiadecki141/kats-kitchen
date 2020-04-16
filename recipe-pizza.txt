@@ -1,0 +1,33 @@
+recipe-pasta.txt                            Katelyn Biesiadecki, 00/00/2019
+cuisine: italian
+meal: lunch 
+difficulty: medium 
+total_time: 3h30m 
+===================================== =====================================
+
+                                PASTA RECIPE
+
+Say something here, if you want. Or don't.
+I left a single space to represent the center of the lines, but please
+remember to fill it in!
+
+If you want to ignore a certain recipe in recipeReader.py for whatever
+reason, I suggest prepending the filename with an underscore 
+(e.g. _recipe-for-disaster.txt).
+
+---------------------------------------------------------------------------
+
+Ingredients:
+@ key ingredient - the at-sign is a tag for the key flavor of a dish!
+* other ingredients
+
+Serve with:
+* a pinch of sass
+
+------------------------------- INSTRUCTIONS ------------------------------
+
+You can just write in plain English; and no need for numbers.
+
+Enjoy!
+
+===========================================================================
