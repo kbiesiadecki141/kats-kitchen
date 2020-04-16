@@ -1,17 +1,17 @@
 recipe-chili-tofu.txt                       Katelyn Biesiadecki, 11/11/2019
-cuisine: french
-meal: chinese?
+cuisine: chinese?
+meal: lunch, dinner
 difficulty: (easy) medium hard
 total_time: 0h15m 
 ===========================================================================
 
                                EASY CHILI TOFU 
                                     a.k.a.
-                                  FOOLS TOFU
+                                  FOOL'S TOFU
 
 This is almost suspiciously easy and delicious. 
 
-I call it Fools Tofu because it's pretty foolproof. Also, due to its 
+I call it Fool's Tofu because it's pretty foolproof. Also, due to its 
 close resemblance to Mapo Tofu -- without actually *being* mapo tofu --
 you'd kinda have to be a fool to serve it to anyone who's had Chinese food
 before, because it's definitely not a classy or traditional dish. This is a 
@@ -30,7 +30,10 @@ https://www.seriouseats.com/recipes/2012/08/silken-tofu-with-soy-sauce-and-chili
 Ingredients:
 @ soft silken tofu** 
 @ Chinese chili oil -- this is basically the entire dish, so it better be
-                       a good one!
+                       a good one! I think mine is Lee Kum Kee or something
+* Szechuan peppercorns (this isn't included in the instructions but
+                       just toast these up and chuck 'em in)
+* ground pork
 * soy sauce, to taste
 * sesame oil
                        
